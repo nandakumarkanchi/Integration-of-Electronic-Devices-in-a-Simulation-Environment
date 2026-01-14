@@ -60,23 +60,23 @@ The proposed system integrates **hardware sensing**, **real-time data acquisitio
 #### Hardware Architecture & Integration
 
 ![Figure 5](figures/methodology_fig5.png)
-*Figure 5: Schematic circuit diagram of the load cell hardware architecture.*
+*Figure 1: Schematic circuit diagram of the load cell hardware architecture.*
 
 ![Figure 6](figures/methodology_fig6.png)
-*Figure 6: Wiring diagram illustrating load cell, HX711, and Arduino connections.*
+*Figure 2: Wiring diagram illustrating load cell, HX711, and Arduino connections.*
 
 ---
 
 #### Software & Digital Twin Workflow
 
 ![Figure 7](figures/methodology_fig7.png)
-*Figure 7: Software integration workflow showing interaction between Arduino, serial communication, and CoppeliaSim digital twin.*
+*Figure 3: Software integration workflow showing interaction between Arduino, serial communication, and CoppeliaSim digital twin.*
 
 ![Figure 10](figures/methodology_fig10.png)
-*Figure 10: CoppeliaSim platform with embedded child script managing real-time sensor input.*
+*Figure 4: CoppeliaSim platform with embedded child script managing real-time sensor input.*
 
 ![Figure 12](figures/methodology_fig12.png)
-*Figure 12: Operational digital twin of the load cell synchronized with physical hardware.*
+*Figure 5: Operational digital twin of the load cell synchronized with physical hardware.*
 
 ---
 
@@ -87,10 +87,10 @@ The load cell model was evaluated using **multiple objects of varying shapes and
 ### 📊 Result Visualizations
 
 ![Figure 14](figures/result_fig14.png)
-*Figure 14: Weight measurement of different objects obtained through CoppeliaSim simulation.*
+*Figure 6: Weight measurement of different objects obtained through CoppeliaSim simulation.*
 
 ![Figure 16](figures/result_fig16.png)
-*Figure 16: Comparative graph showing weight measurements across physical experiments and simulation outputs.*
+*Figure 7: Comparative graph showing weight measurements across physical experiments and simulation outputs.*
 
 ---
 
