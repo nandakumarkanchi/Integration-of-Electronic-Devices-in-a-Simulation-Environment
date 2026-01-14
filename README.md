@@ -48,7 +48,6 @@ This work is particularly relevant for **robotic manipulation, weight-based sort
 └── README.md
 ```
 
-⚠️ *Source code and figures containing code snippets are intentionally excluded from this README and provided separately.*
 
 ---
 
