@@ -1,0 +1,2 @@
+# Integration-of-Electronic-Devices-in-a-Simulation-Environment
+The project focuses on the real-time integration of a physical load cell with a dynamic robotics simulation environment (CoppeliaSim) using Arduino. The work demonstrates how real-world sensor behavior can be faithfully mirrored inside a simulator through a digital twin approach, enabling accurate validation before deployment in robotic systems.
